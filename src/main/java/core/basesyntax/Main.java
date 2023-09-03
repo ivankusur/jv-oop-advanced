@@ -2,6 +2,7 @@ package core.basesyntax;
 
 public class Main {
     private static final int NUMBER_OF_FIGURE = 6;
+
     private static FigureSupplier figureSupplier = new FigureSupplier();
 
     public static void main(String[] args) {
